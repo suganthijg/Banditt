@@ -4,8 +4,7 @@ CONNECTING TO THE SERVER
 
 The first step is to connect to the Bandit server using SSH (Secure Shell).
 Open Command Prompt and enter:
-
-
+![Bandit Level 0](Screenshot 2026-09-09 184402.png)
 Here:
 
 * `ssh` → connects to a remote server.
