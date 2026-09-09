@@ -4,7 +4,7 @@ CONNECTING TO THE SERVER
 
 The first step is to connect to the Bandit server using SSH (Secure Shell).
 Open Command Prompt and enter:
-![Bandit Level 0](https://github.com/suganthijg/Banditt/blob/bf96f81936257b0cab7d6e8e67463a1f4757bfb2/Screenshot%202026-09-09%20184402.png)
+![image alt](https://github.com/suganthijg/Banditt/blob/bf96f81936257b0cab7d6e8e67463a1f4757bfb2/Screenshot%202026-09-09%20184402.png)
 Here:
 
 * `ssh` → connects to a remote server.
