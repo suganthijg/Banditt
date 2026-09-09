@@ -1,0 +1,26 @@
+--------Level 0-----------
+
+CONNECTING TO THE SERVER 
+
+The first step is to connect to the Bandit server using SSH (Secure Shell).
+Open Command Prompt and enter:
+
+
+Here:
+
+* `ssh` → connects to a remote server.
+* `bandit0` → username.
+* `bandit.labs.overthewire.org` → server address.
+* `-p 2220` → connects through port `2220`.
+
+When prompted for the password, enter the password provided for Level 0.
+
+If the login is successful, you will see:
+
+```text
+bandit0@bandit:~$
+```
+
+This means you are successfully logged in to the Bandit server as `bandit0`.
+
+Level 0 is complete. We can now move on to **Level 0 → Level 1**.
