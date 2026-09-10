@@ -103,3 +103,23 @@ cat data9.bin
 <img width="462" height="32" alt="image" src="https://github.com/user-attachments/assets/712f9bb9-33de-4595-a896-a9de16a8c263" />
 
 The output contains the **password for Bandit Level 13**.
+
+### Step 9: Exit Level 12
+
+After noting the password:
+
+<img width="389" height="42" alt="image" src="https://github.com/user-attachments/assets/0d3cf71e-e5af-4bd8-99f0-876813695689" />
+
+
+This closes the current SSH session.
+
+### Step 10: Log in to Level 13 using ssh command using :ssh bandit13@bandit.labs.overthewire.org -p 2220
+
+<img width="649" height="182" alt="image" src="https://github.com/user-attachments/assets/d78c41ad-7446-46ac-82f0-410c991452db" />
+
+Enter the password obtained from the final `cat` command.
+
+### Step 11: Enter the password obtained above
+
+After entering the password, you will be directed to **Level 13** officially.
+
