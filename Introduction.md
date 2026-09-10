@@ -1,33 +1,19 @@
-# Banditt
-Levels description
-OverTheWire Bandit: Level 0 to Level 15
-INTRODUCTION:
+# Introduction
 
-This repository documents my progress through the Bandit wargame from OverTheWire, covering Level 0 through Level 15.
+**OverTheWire Bandit is where cybersecurity meets the command line.**
 
-Bandit is designed to introduce beginners to Linux, command-line tools, file systems, permissions, text processing, networking, authentication, and basic security concepts through practical challenges.
+This repository documents my hands-on journey through the **OverTheWire Bandit wargame**, a progressive Linux-based cybersecurity challenge where each level introduces a new problem that must be solved using commands, logic, and practical investigation.
 
-Rather than documenting only the commands required to complete each level, this write-up focuses on understanding the reasoning behind each solution.
+The **Bandit wargame** starts with fundamental Linux concepts and gradually introduces challenges involving file handling, permissions, hidden files, text processing, encoding, compression, networking, encryption, and secure authentication.
 
-The objective is:
+Rather than simply documenting the answers, this write-up explains the **commands used, their purpose, and the approach taken to solve each level**, making it useful for beginners exploring Linux and cybersecurity.
 
-Understand the problem, identify the relevant Linux concept, choose the appropriate tool, and understand why the solution works.
+## Objectives
 
-Table of Contents
->Level 0
->Level 0 → 1
->Level 1 → 2
->Level 2 → 3
->Level 3 → 4
->Level 4 → 5
->Level 5 → 6
->Level 6 → 7
->Level 7 → 8
->Level 8 → 9
->Level 9 → 10
->Level 10 → 11
->Level 11 → 12
->Level 12 → 13
->Level 13 → 14
->Level 14 → 15
->Level 15 → 16
+* Build a strong foundation in **Linux command-line operations**.
+* Develop practical **cybersecurity problem-solving skills**.
+* Understand how to identify and work with **files, permissions, and hidden data**.
+* Gain hands-on experience with **encoding, encryption, compression, and text processing**.
+* Learn basic **networking and secure communication techniques**.
+* Improve the ability to **analyze problems and troubleshoot independently**.
+* Document each challenge as a **clear, practical learning reference**.
