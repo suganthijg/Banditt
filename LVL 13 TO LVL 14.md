@@ -43,6 +43,9 @@ If you need to return to the previous session:
 exit
 ```
 
+<img width="370" height="48" alt="image" src="https://github.com/user-attachments/assets/0c89dd25-59ca-4799-85e1-6c6a7cd09c16" />
+
+
 This closes the SSH session.
 
 ### Result
